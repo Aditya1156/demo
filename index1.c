@@ -24,5 +24,5 @@ int main() {
     printf("Future Plans: %s", futurePlan);
 
     return 0;
-    printf("thanks guys meet you again");
+    printf("Thanks guys meet you again");
 }
